@@ -1,11 +1,11 @@
-h1 align="center">Hi there 👋, my name is Trilok Dhaked .</h1>
-<h3 align="center">An enthusiastic Cyber Secure from India !!!</h3>
+<h1 align="center">Hi there 👋, my name is Trilok Dhaked .</h1>
+<h3 align="center">An enthusiastic Cyber Security from India !!!</h3>
 
 - 🌱 I’m currently learning *Machine Learning and backend Web Dev*
 
-- 👯 I’m looking to collaborate on *Cyber Sceurity projects*
+- 👯 I’m looking to collaborate on *Cyber Sceurity & Penetration Testing projects*
 
-- 💬 Ask me about *Penetration Tester || Ethical Hacker || VAPT *
+- 💬 Ask me about * || Penetration Tester || Ethical Hacker || Cyber Security Researcher || Bug Bounty Hunter || VAPT || *
 
 - 📫 Reach out to me at *trilokdhaked12345678@gmail.com*
 

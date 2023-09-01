@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, my name is Trilok Dhaked .</h1>
 <h3 align="center">An enthusiastic Cyber Security from India !!!</h3>
 
-- 🌱 I’m currently learning *Machine Learning and backend Web Dev*
+- 🌱 I’m currently learning *Advanced Cyber Security & Blockchain Security *
 
-- 👯 I’m looking to collaborate on *Cyber Sceurity & Penetration Testing projects*
+- 👯 I’m looking to collaborate on * Cyber Sceurity & Penetration Testing projects *
 
 - 💬 Ask me about * || Penetration Tester || Ethical Hacker || Cyber Security Researcher || Bug Bounty Hunter || VAPT || *
 

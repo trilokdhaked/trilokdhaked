@@ -1,13 +1,13 @@
-h1 align="center">Hi there 👋, my name is Abhinav.</h1>
+h1 align="center">Hi there 👋, my name is Trilok Dhaked .</h1>
 <h3 align="center">An enthusiastic coder and developer from India !!!</h3>
 
 - 🌱 I’m currently learning *Machine Learning and backend Web Dev*
 
-- 👯 I’m looking to collaborate on *Machine Learning projects*
+- 👯 I’m looking to collaborate on *Cyber Sceurity projects*
 
-- 💬 Ask me about *coding, cryptography, ML and Web Dev*
+- 💬 Ask me about *Penetration Tester || Ethical Hacker || VAPT *
 
-- 📫 Reach out to me at *kumar.abhinav3125@gmail.com*
+- 📫 Reach out to me at *trilokdhaked12345678@gmail.com*
 
 - 👨‍💻 See my portfolio: Will be uploaded soon :)
 

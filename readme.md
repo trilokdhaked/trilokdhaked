@@ -1,5 +1,5 @@
 h1 align="center">Hi there 👋, my name is Trilok Dhaked .</h1>
-<h3 align="center">An enthusiastic coder and developer from India !!!</h3>
+<h3 align="center">An enthusiastic Cyber Secure from India !!!</h3>
 
 - 🌱 I’m currently learning *Machine Learning and backend Web Dev*
 

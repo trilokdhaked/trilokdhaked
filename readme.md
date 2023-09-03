@@ -8,10 +8,14 @@
 - 💬 Ask me about * || Penetration Tester || Ethical Hacker || Cyber Security Researcher || Bug Bounty Hunter || VAPT || *
 
 - 📫 Reach out to me at *trilokdhaked12345678@gmail.com*
+  
+- 🔗 Check out my Bug-Bounty-Methodology on GitHub: Bug-Bounty-Methodology 
 
-- 👨‍💻 See my portfolio: Will be uploaded soon :)
+               https://github.com/trilokdhaked/Bug-Bounty-Methodology
 
-- 📄 See my resume: Will be uploaded soon :)
+-  These are my bug bounty notes that I have gathered from various sources, you can contribute to this repository too! If you really like it then don't forget to follow me ❤️
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

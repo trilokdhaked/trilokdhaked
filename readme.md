@@ -9,7 +9,7 @@
 
 - 📫 Reach out to me at *trilokdhaked12345678@gmail.com*
   
-- 🔗 Check out my Bug-Bounty-Methodology on GitHub: Bug-Bounty-Methodology 
+- 🔗 Check it out my Bug-Bounty-Methodology on GitHub: Bug-Bounty-Methodology 
 
                https://github.com/trilokdhaked/Bug-Bounty-Methodology
 

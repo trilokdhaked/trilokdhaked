@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, my name is Trilok Dhaked.</h1>
 <h3 align="center">An enthusiastic Cyber Security from India !!!</h3>
 
-- 🌱 I’m currently learning * Advanced Cyber Security & Blockchain Security *
+- 🌱 I’m currently learning * Advanced Cyber Security *
 
 - 👯 I’m looking to collaborate on * Cyber Sceurity & Penetration Testing projects *
 

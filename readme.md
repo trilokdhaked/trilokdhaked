@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, my name is Trilok Dhaked.</h1>
-<h3 align="center">An enthusiastic Cyber Security from India !!!</h3>
+<h3 align="center">As Cyber Security Expert from India !!!</h3>
 
 - 🌱 I’m currently focusing  WEB3 * Advanced Cyber Security *
 

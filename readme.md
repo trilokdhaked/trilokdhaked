@@ -7,7 +7,7 @@
 
 - 💬 Ask me about * || Penetration Tester || Ethical Hacker || Cyber Security Researcher || Bug Bounty Hunter || VAPT || *
 
-- 📫 Reach out to me at *trilokdhaked12345678@gmail.com*
+- 📫 Reach out to me at *https://www.linkedin.com/in/trilokdhaked/ *
   
 - 🔗 Check it out my Bug-Bounty-Methodology on GitHub: Bug-Bounty-Methodology 
 

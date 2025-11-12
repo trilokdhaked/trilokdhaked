@@ -23,6 +23,6 @@
 <a href="https://twitter.com/Tr1l0kDh4k3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tr1l0kDh4k3d" height="30" width="40" /></a>
 <a href="https://instagram.com/Tr1l0kDh4k3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Tr1l0kDh4k3d" height="30" width="40" /></a>
   <a href="https://medium.com/@trilokdhaked" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="trilokdhaked" height="30" width="40" /></a>
-   <a href="https://linktr.ee/Trilokdhakedofficial" target="blank"><img align="center" src="https://logowik.com/content/uploads/images/linktree-new-2022-favicon8503.logowik.com.webp" alt="trilokdhakedofficial" height="30" width="30" /></a>
+   <a href="https://linktr.ee/Tr1l0kDh4k3d" target="blank"><img align="center" src="https://logowik.com/content/uploads/images/linktree-new-2022-favicon8503.logowik.com.webp" alt="trilokdhakedofficial" height="30" width="30" /></a>
 
 </p>

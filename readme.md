@@ -2,8 +2,10 @@
 <h3 align="center">As Cyber Security Expert from India !!!</h3>
 
 - 🌱 I’m currently focusing  WEB3 * Advanced Cyber Security *
+- New  CVE-2026-61624 & CVE-2026-61623 *
 
-- 👯 I’m looking to collaborate on * Cyber Sceurity & Penetration Testing projects *
+
+- 👯 I’m looking to collaborate on * Cyber Security & Penetration Testing projects *
 
 - 💬 Ask me about * || Penetration Tester || Ethical Hacker || Cyber Security Researcher || Bug Bounty Hunter || VAPT || *
 
